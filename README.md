@@ -55,12 +55,15 @@ Your submission will be evaluated based on the following criteria:
 Feel free to reach out in github issues if you have any questions or need clarification on the tasks. Good luck!
 
 ---
+## README.md Template
+
+Please fill in the following information in the `README.md` file of your repository:
 
 ### ER Model Diagram
 
 Please include an image or PDF of your ER model diagram here.
 
-### Screenshots Template
+### Screenshots
 
 Please use the following template to capture detailed screenshots of your Postman tests:
 
@@ -83,3 +86,11 @@ Please use the following template to capture detailed screenshots of your Postma
 #### API Endpoint 5: Delete an application
 
 ![Delete Application](screenshots/delete_application.png)
+
+## Author
+
+[Your Name]
+
+---
+
+**Note:** Replace `[Your Name]` with your actual name.
