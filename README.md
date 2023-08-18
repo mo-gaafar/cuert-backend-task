@@ -83,7 +83,3 @@ Please use the following template to capture detailed screenshots of your Postma
 #### API Endpoint 5: Delete an application
 
 ![Delete Application](screenshots/delete_application.png)
-
----
-
-**Note:** Replace `Cairo University Eco-Racing Team` with the actual name of your company.
