@@ -34,15 +34,14 @@ In this challenge, you will be responsible for designing and implementing a back
 ### Part 3: Postman Testing
 
 1. Install Postman (if not already installed) from [postman.com](https://www.postman.com/downloads/).
-2. Import the provided `postman_collection.json` file into Postman.
-3. Test each of the API endpoints using the imported collection.
-4. Ensure that the requests return the expected responses.
-5. Capture detailed screenshots of your Postman tests for each API endpoint.
-6. Commit the screenshots to the repository.
+2. Test each of the API endpoints and create a collection.
+3. Ensure that the requests return the expected responses.
+4. Capture detailed screenshots of your Postman tests for each API endpoint.
+5. Commit the screenshots to the repository.
 
 ## Submission
 
-Once you have completed the tasks, create a pull request from your `backend-api` branch to the `master` branch of this repository. In the pull request description, provide a brief overview of your approach, any challenges faced, and any additional notes you'd like to share.
+Once you have completed the tasks, create a pull request from your `backend-task` branch to the `master` branch of this repository. In the pull request description, provide a brief overview of your approach, any challenges faced, and any additional notes you'd like to share.
 
 ### Evaluation Criteria
 
@@ -53,7 +52,7 @@ Your submission will be evaluated based on the following criteria:
 - **ER Model:** Is the ER model well-designed and accurately represents the data structure?
 - **Postman Testing:** Are the Postman tests comprehensive and do they cover all API endpoints?
 
-Feel free to reach out if you have any questions or need clarification on the tasks. Good luck!
+Feel free to reach out in github issues if you have any questions or need clarification on the tasks. Good luck!
 
 ---
 
